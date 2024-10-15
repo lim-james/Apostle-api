@@ -1,4 +1,4 @@
-# Django #
+#:Django #
 *.log
 *.pot
 *.pyc
@@ -136,3 +136,7 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+
+# others
+.DS_Store
+
